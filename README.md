@@ -1,4 +1,4 @@
-# SushiSwap Icons
+# Standard Icons
 
 # Adding a token
 
